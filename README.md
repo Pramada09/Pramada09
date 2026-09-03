@@ -96,7 +96,7 @@ To become a skilled Data Scientist and build impactful real-world Machine Learni
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [My LinkedIn](www.linkedin.com/in/pramada-katkar-1a3693338)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/pramada-katkar-1a3693338/)
 - 📧 Email: pramadakatkar@gmail.com
   
 
